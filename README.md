@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f9f5be,100:fdd163&height=120&text=i'm%20mingji%20ଘ(๑•%20ө•)۶ෆ&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f9f3b9,100:fdd46a&height=180&text=I'm%20mingji%20ଘ(๑•%20ө•)۶ෆ&animation=&fontColor=363636&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋안녕하세요 </h2>  
@@ -25,6 +25,10 @@
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 Contact me </h2>
+    <div style="text-align: left;"> <a href=mailto:mingi9100@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingi9100@naver.com"> </a>
+    </div>
     <div align= "left"> 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "left"> <img src="https://github-readme-stats.vercel.app/api?username=mingjicha&bg_color=180,fffefa,00000000&title_color=000000&text_color=000000"
@@ -34,3 +38,4 @@
     <div align= "right"><a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingjicha%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
+    
