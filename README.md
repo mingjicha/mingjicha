@@ -6,8 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 방금 막 알에서 태어난 병아리🐣 개발자입니다.<br></li>배우는 것 하나하나가 재미있고 즐거워요!<br></li>앞으로 꾸준히 배워 성장하는 개발자가 되고싶어요.🙇‍♀️</li> </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "left"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <div align= "left"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
