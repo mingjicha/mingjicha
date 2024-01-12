@@ -1,27 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=mingjicha&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-<p align="center">
-
-#### :wave: Hello ^owo^~~! :wave:
-#### :wave: Welcome to my GitHub profile!
- <br/>
- <br/>
-#### :wrench: Stack
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=PHP&logoColor=#777BB4">
-<img src="https://img.shields.io/badge/vuedotjs-3776AB?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D">
-<img src="https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=Laravel&logoColor=#FF2D20">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/mariadb-007ACC?style=for-the-badge&logo=mariadb&logoColor=#003545">
-</p>
-
-#### :pencil2: Study log
-![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingjicha&include_all_commits=true&theme=nord&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingjicha&langs_count=8)](https://github.com/catgoesmeowo/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingjicha%2Fhit-counter&count_bg=%23EFA3FF&title_bg=%23D5A9A9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffecbd,100:f6b56a&height=120&text=I'm%20mingji%20ଘ(๑•%20ө•)۶ෆ&animation=fadeIn&fontColor=000000&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요.😊 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 방금 막 알에서 태어난 병아리🐣 개발자입니다.<br></li>배우는 것 하나하나가 재미있고 즐거워요!<br></li>앞으로 꾸준히 배워 성장하는 개발자가 되고싶어요.🙇‍♀️</li> </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;">  </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingjicha%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=mingjicha&bg_color=180,f6edcb,00000000&title_color=333333&text_color=333333"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingjicha&layout=compact&bg_color=180,f6edcb,00000000&title_color=333333&text_color=333333"
+           /> </div> 
+    </div>
+    
